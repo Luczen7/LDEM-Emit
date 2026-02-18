@@ -99,7 +99,7 @@
         </div>
         <div class="flexbox">
         <img src="c:\Users\ROGINIOT\Desktop\ginoSorel\assets\image.jpg="photo de Sorel"width=180>
-        <h1>Membre 5</h1>
+        <h1>Membre 4</h1>
              <link rel="short icon" href="./tt.jpg">
             <h2>Information personnel</h2>
             <!-- UL = unorder list -->
@@ -117,9 +117,11 @@
             </ul>
             
         </div>
-               <div class="flexbox">
+                    
     
-            <h1>Membre 6</h1>
+        <div class="flexbox">
+    
+            <h1>Membre 1</h1>
              <img src="490934050_1451058895863386_3640188297842644685_n" alt="photo sonya"width=180>
             <h2>Information personnel</h2>
             <!-- UL = unorde list -->
@@ -136,6 +138,26 @@
                 <li>Mention : Informatique</li>
             </ul>
             
+        </div>
+
+        <div class="flexbox">
+            <h1>Membre 3</h1>
+            <img src="C:\Users\admin\Desktop\IMG.png" alt="photo de Metosela"width=180>
+            <h2> Informations personnelles</h2>
+            <ul>
+                <li>Nom: RASAMIHAGA </li>
+                <li>Prenoms: Nambinintsoa Metosela </li>
+                <li>Age:19 ans</li>
+                <li>CIN: 101 981 130 602</li>
+                <li>contacte: 038 26 412 60</li>
+                <li>Email: metoselarasamihaga@gmail.com</li>
+                <li>Adresse: Soanierana Fianarantsoa </li>
+                <li>Situation Matrimoniale: celibataire </li>
+                <li>Mention: Informatique </li>
+
+            </ul>
+            
+
         </div>
 
 
