@@ -25,7 +25,7 @@
                 <h2>Information personnel</h2>
                 <ul>
                     <li><strong>Nom :</strong> RAJAOHARSISON</li>
-                    <li><strong>Prenom :</strong> Adolph Moreno</li>
+                    <li><strong>Prénoms :</strong> Adolph Moreno</li>
                     <li><strong>Age :</strong> 19 ans </li>
                     <li><strong>CIN :</strong> 501071041150</li>
                     <li><strong>contact :</strong> 033 95 894 18</li>
@@ -47,10 +47,10 @@
                 <h2>Information personnel</h2>
                 <ul>
                     <li><strong>Nom :</strong> RAJOELIMALALA </li>
-                    <li><strong>Prenoms :</strong> Harena Randy </li>
+                    <li><strong>Prénoms :</strong> Harena Randy </li>
                     <li><strong>Age :</strong> 17 ans</li>
                     <li><strong>CIN :</strong> (Non spécifié)</li>
-                    <li><strong>contacte :</strong> 038 74 130 45</li>
+                    <li><strong>contact :</strong> 038 74 130 45</li>
                     <li><strong>Email :</strong> rrajoelimalala@gmail.com</li>
                     <li><strong>Adresse :</strong> Andrainjato fianarantsoa </li>
                     <li><strong>Situation Matrimoniale :</strong> celibataire </li>
@@ -88,7 +88,7 @@
                 <h2>Information personnel</h2>
                 <ul>
                     <li><strong>Nom :</strong> TOTO</li>
-                    <li><strong>Prenom :</strong> Liang Wenceslas Truilino</li>
+                    <li><strong>Prénoms :</strong> Liang Wenceslas Truilino</li>
                     <li><strong>Age :</strong> 19 ans </li>
                     <li><strong>CIN :</strong> 301071048825</li>
                     <li><strong>contact :</strong> 032 48 709 78</li>
@@ -110,7 +110,7 @@
                 <h2>Information personnel</h2>
                 <ul>
                     <li><strong>Nom :</strong> RARIVOANDRIANANDRAINA</li>
-                    <li><strong>Prenom :</strong> Gino Sorel</li>
+                    <li><strong>Prénoms :</strong> Gino Sorel</li>
                     <li><strong>Age :</strong> 18ans </li>
                     <li><strong>CIN :</strong> 201031068358</li>
                     <li><strong>contact :</strong> 038 32 194 62</li>
@@ -132,7 +132,7 @@
                 <h2>Information personnel</h2>
                 <ul>
                     <li><strong>Nom :</strong> RASOANIRINJATOVO</li>
-                    <li><strong>Prenom :</strong> Sonya</li>
+                    <li><strong>Prénoms :</strong> Sonya</li>
                     <li><strong>Age :</strong> 19 ans </li>
                     <li><strong>CIN :</strong> 314012053419</li>
                     <li><strong>contact :</strong> 0345624502</li>
@@ -154,10 +154,10 @@
                 <h2> Informations personnelles</h2>
                 <ul>
                     <li><strong>Nom :</strong> RASAMIHAGA </li>
-                    <li><strong>Prenoms :</strong> Nambinintsoa Metosela </li>
+                    <li><strong>Prénoms :</strong> Nambinintsoa Metosela </li>
                     <li><strong>Age :</strong> 19 ans</li>
                     <li><strong>CIN :</strong> 101 981 130 602</li>
-                    <li><strong>contacte :</strong> 038 26 412 60</li>
+                    <li><strong>contact :</strong> 038 26 412 60</li>
                     <li><strong>Email :</strong> metoselarasamihaga@gmail.com</li>
                     <li><strong>Adresse :</strong> Soanierana Fianarantsoa </li>
                     <li><strong>Situation Matrimoniale :</strong> celibataire </li>
