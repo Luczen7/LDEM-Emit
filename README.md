@@ -169,7 +169,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2024 - Les Disciples d'Elon Musk</p>
+        <p>&copy; 2026 - Les Disciples d'Elon Musk</p>
     </footer>
 
 </body>
