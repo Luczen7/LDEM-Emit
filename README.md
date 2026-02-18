@@ -1,108 +1,44 @@
-        <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Les-Disciple-D'Elon-Musk</title>
-
-    <link rel="stylesheet" href="test.css">
-
-    <!-- icone de l'onglet -->
-     <link rel="shortcut icon" href="./LOGO-LDEM.png">
+    <title>Profil LDEM-Emit</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./LOGO-LDEM.png">
 </head>
 <body>
-    <nav>
-     
+
+    <nav class="navbar">
+        <div class="nav-content">
+            <svg height="32" viewBox="0 0 16 16" version="1.1" width="32" fill="white"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+            <span class="nav-brand">Dashboard</span>
+        </div>
     </nav>
-    <header>
-        <h1>Fiche de renseignement</h1>
-     
-    </header>
-    <main>
-        <div class="flexbox">
-            <h1>Membre 1</h1>
-             <img src="c:\Users\Randy\Downloads\Instagram _ saad_https.jpg" alt="photo de Truilino"width=180>
-            <h2>Information personnel</h2>
-            <!-- UL = unorder list -->
-            <ul>
-                <li>Nom : RAJAOHARSISON</li>
-                <li>Prenom : Adolph Moreno</li>
-                <li>Age : 19 ans </li>
-                <li>CIN : 501071041150</li>
-                <li>contact : 033 95 894 18</li>
-                <li>Email : mrajaoharison@gmail.com</li>
-                <li>Adresse : Andrainjato Fianarantsoa</li>
-                <li>Situation Matrimoniale : Celibataire</li>
-                <li>Profession : Etudiant</li>
-                <li>Mention : Informatique</li>
-            </ul>
-            
-        </div>
-      
-        <div class="flexbox">
-            <h1>Membre 2</h1>
-            <img src="c:\Users\Randy\Downloads\635558845_1947617126129301_5604299084576595822_n.jpg" alt="photo de Randy"width=180>
-            <h2> information personnel</h2>
-            <ul>
-                <li>Nom: RAJOELIMALALA </li>
-                <li>Prenoms:Harena Randy </li>
-                <li>Age:17 ans</li>
-                <li>CIN:</li>
-                <li>contacte: 038 74 130 45</li>
-                <li>Email:rrajoelimalala@gmail.com</li>
-                <li>Adresse:Andrainjato fianarantsoa </li>
-                <li>Situation Matrimoniale: celibataire </li>
-                <li>Mention: Informatique </li>
 
-            </ul>
-            
+    <div class="container">
+        <aside class="sidebar">
+            <div class="avatar-placeholder"><img src="./LOGO-LDEM.png" alt="Photo de profil" class="avatar-image">
+            </div>
+            <h1 class="name">LDEM-Emit</h1>
+            <p class="bio">Les Disciples d'Elon Musk est un Groupe de jeune passionné par la tech.</p>
+            <button class="btn-primary">Suivre</button>
+        </aside>
 
-        </div>
-      
-        </div>
-            <div class="flexbox">
-                <h1>Membre 3</h1>
-                <img src="![WhatsApp Image 2026-02-18 at 3 51 01 PM](https://github.com/user-attachments/assets/1d41d4e1-ac3d-4611-b1e9-167829d05c64)
-" alt="photo d'indentité"width=180>
-                <h2> information personnel</h2>
+        <main class="content">
+            <div class="section-header">
+                <h2>Navigation</h2>
+            </div>
+
+            <div class="section">
                 <ul>
-                <li>Nom: ANDRIANARIVOSOA </li>
-                <li>Prénoms: Antema Fiderana </li>
-                <li>Age:17 ans</li>
-                <li>contacte: 038 35 198 19</li>
-                <li>Email:antemaandrianrivosoa@gmail.com</li>
-                <li>Adresse:Andrainjato fianarantsoa </li>
-                <li>Mention: Informatique </li>
+                    <li><a href="./index.html" class="box">Membre de l'équipe</a></li>
+                </ul>
+            </div>
 
-            </ul>
-        
-
-        </div>
-        <div class="flexbox">
-            <h1>Membre 4</h1>
-             <link rel="short icon" href="./tt.jpg">
-            <h2>Information personnel</h2>
-            <!-- UL = unorder list -->
-            <ul>
-                <li>Nom : TOTO</li>
-                <li>Prenom : Liang Wenceslas Truilino</li>
-                <li>Age : 19 ans </li>
-                <li>CIN : 301071048825</li>
-                <li>contact : 032 48 709 78</li>
-                <li>Email : truilinoliang@gamil.com</li>
-                <li>Adresse : Andrainjato Fianarantsoa</li>
-                <li>Situation Matrimoniale : Celibataire</li>
-                <li>Profession : Etudiant</li>
-                <li>Mention : Informatique</li>
-            </ul>
             
-        </div>
-        <div class="flexbox">
-    </main>
-    <footer></footer>
-
-
-
+        </main>
+    </div>
 
 </body>
 </html>
