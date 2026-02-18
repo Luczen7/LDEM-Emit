@@ -140,6 +140,26 @@
             
         </div>
 
+        <div class="flexbox">
+            <h1>Membre 3</h1>
+            <img src="C:\Users\admin\Desktop\IMG.png" alt="photo de Metosela"width=180>
+            <h2> Informations personnelles</h2>
+            <ul>
+                <li>Nom: RASAMIHAGA </li>
+                <li>Prenoms: Nambinintsoa Metosela </li>
+                <li>Age:19 ans</li>
+                <li>CIN: 101 981 130 602</li>
+                <li>contacte: 038 26 412 60</li>
+                <li>Email: metoselarasamihaga@gmail.com</li>
+                <li>Adresse: Soanierana Fianarantsoa </li>
+                <li>Situation Matrimoniale: celibataire </li>
+                <li>Mention: Informatique </li>
+
+            </ul>
+            
+
+        </div>
+
 
     </main>
     <footer></footer>
