@@ -21,7 +21,7 @@
     <main>
         <div class="flexbox">
             <h1>Membre 1</h1>
-             <img src="moreno.jpg" alt="photo de Moreno"width=180>
+             <img src="f:\490934050_1451058895863386_3640188297842644685_n.jpg="photo de Truilino"width=180>
             <h2>Information personnel</h2>
             <!-- UL = unorder list -->
             <ul>
@@ -53,16 +53,16 @@
                 <li>Adresse:Andrainjato fianarantsoa </li>
                 <li>Situation Matrimoniale: celibataire </li>
                 <li>Mention: Informatique </li>
+
             </ul>
             
 
         </div>
       
-        </div>
             <div class="flexbox">
                 <h1>Membre 3</h1>
-                <img src="antema.jpg" alt="photo d'indentité"width=180>
-            <ul>   
+                <img src="![WhatsApp Image 2026-02-18 at 3 51 01 PM](https://github.com/user-attachments/assets/1d41d4e1-ac3d-4611-b1e9-167829d05c64)
+" alt="photo d'indentité"width=180>
                 <h2> information personnel</h2>
                 <ul>
                 <li>Nom: ANDRIANARIVOSOA </li>
@@ -71,9 +71,9 @@
                 <li>contacte: 038 35 198 19</li>
                 <li>Email:antemaandrianrivosoa@gmail.com</li>
                 <li>Adresse:Andrainjato fianarantsoa </li>
-                <li>Situation Matrimoniale: celibataire </li>
                 <li>Mention: Informatique </li>
-           </ul>
+
+            </ul>
         
 
         </div>
@@ -98,7 +98,7 @@
         </div>
         <div class="flexbox">
         <img src="c:\Users\ROGINIOT\Desktop\ginoSorel\assets\image.jpg="photo de Sorel"width=180>
-            <h1>Membre 5</h1>
+        <h1>Membre 5</h1>
              <link rel="short icon" href="./tt.jpg">
             <h2>Information personnel</h2>
             <!-- UL = unorder list -->
@@ -153,8 +153,8 @@
                 <li>Adresse: Soanierana Fianarantsoa </li>
                 <li>Situation Matrimoniale: celibataire </li>
                 <li>Mention: Informatique </li>
+
             </ul>
-            
             
 
         </div>
