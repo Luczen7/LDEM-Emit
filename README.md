@@ -64,6 +64,7 @@
                 <h1>Membre 3</h1>
                 <img src="![WhatsApp Image 2026-02-18 at 3 51 01 PM](https://github.com/user-attachments/assets/1d41d4e1-ac3d-4611-b1e9-167829d05c64)
 " alt="photo d'indentité"width=180>
+            <ul>   
                 <h2> information personnel</h2>
                 <ul>
                 <li>Nom: ANDRIANARIVOSOA </li>
@@ -72,6 +73,7 @@
                 <li>contacte: 038 35 198 19</li>
                 <li>Email:antemaandrianrivosoa@gmail.com</li>
                 <li>Adresse:Andrainjato fianarantsoa </li>
+                <li>Situation Matrimoniale: celibataire </li>
                 <li>Mention: Informatique </li>
 
             </ul>
@@ -99,7 +101,7 @@
         </div>
         <div class="flexbox">
         <img src="c:\Users\ROGINIOT\Desktop\ginoSorel\assets\image.jpg="photo de Sorel"width=180>
-        <h1>Membre 4</h1>
+            <h1>Membre 5</h1>
              <link rel="short icon" href="./tt.jpg">
             <h2>Information personnel</h2>
             <!-- UL = unorder list -->
@@ -121,7 +123,7 @@
     
         <div class="flexbox">
     
-            <h1>Membre 1</h1>
+            <h1>Membre 6</h1>
              <img src="490934050_1451058895863386_3640188297842644685_n" alt="photo sonya"width=180>
             <h2>Information personnel</h2>
             <!-- UL = unorde list -->
@@ -141,7 +143,7 @@
         </div>
 
         <div class="flexbox">
-            <h1>Membre 3</h1>
+            <h1>Membre 7</h1>
             <img src="C:\Users\admin\Desktop\IMG.png" alt="photo de Metosela"width=180>
             <h2> Informations personnelles</h2>
             <ul>
