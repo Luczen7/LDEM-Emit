@@ -3,174 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Les Disciples d'Elon Musk</title>
-    <link rel="stylesheet" href="test.css">
-    <link rel="shortcut icon" href="./LOGO-LDEM.png">
+    <title>Mon Profil GitHub</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/your-code.js" crossorigin="anonymous"></script>
 </head>
 <body>
 
-    <header>
-        <h1>Fiche de renseignement</h1>
-        <p class="team-name">Groupe : Les Disciples d'Elon Musk</p>
-    </header>
-
-    <main class="container">
-        
-        <div class="flexbox">
-            <div class="card-header">
-                <h1>Membre 1</h1>
-                <img src="moreno.jpg" alt="photo de Moreno">
-            </div>
-            <div class="card-content">
-                <h2>Information personnel</h2>
-                <ul>
-                    <li><strong>Nom :</strong> RAJAOHARSISON</li>
-                    <li><strong>Prénoms :</strong> Adolph Moreno</li>
-                    <li><strong>Age :</strong> 19 ans </li>
-                    <li><strong>CIN :</strong> 501071041150</li>
-                    <li><strong>contact :</strong> 033 95 894 18</li>
-                    <li><strong>Email :</strong> mrajaoharison@gmail.com</li>
-                    <li><strong>Adresse :</strong> Andrainjato Fianarantsoa</li>
-                    <li><strong>Situation Matrimoniale :</strong> Celibataire</li>
-                    <li><strong>Profession :</strong> Etudiant</li>
-                    <li><strong>Mention :</strong> Informatique</li>
-                </ul>
-            </div>
+    <nav class="navbar">
+        <div class="nav-left">
+            <svg height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true" fill="white"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+            <input type="text" placeholder="Search or jump to..." class="search-input">
+            <a href="#">Pull requests</a>
+            <a href="#">Issues</a>
+            <a href="#">Marketplace</a>
         </div>
+    </nav>
 
-        <div class="flexbox">
-            <div class="card-header">
-                <h1>Membre 2</h1>
-                <img src="635558845_1947617126129301_5604299084576595822_n.jpg" alt="photo de Randy">
+    <div class="container">
+        <aside class="sidebar">
+            <div class="avatar"></div>
+            <h1 class="name">Nom d'Utilisateur</h1>
+            <p class="username">user_github</p>
+            <p class="bio">Passionné de développement web et d'IA. 🚀</p>
+            <button class="edit-btn">Edit profile</button>
+            <div class="stats">
+                <span><strong>120</strong> followers</span> · <span><strong>45</strong> following</span>
             </div>
-            <div class="card-content">
-                <h2>Information personnel</h2>
-                <ul>
-                    <li><strong>Nom :</strong> RAJOELIMALALA </li>
-                    <li><strong>Prénoms :</strong> Harena Randy </li>
-                    <li><strong>Age :</strong> 17 ans</li>
-                    <li><strong>CIN :</strong> (Non spécifié)</li>
-                    <li><strong>contact :</strong> 038 74 130 45</li>
-                    <li><strong>Email :</strong> rrajoelimalala@gmail.com</li>
-                    <li><strong>Adresse :</strong> Andrainjato fianarantsoa </li>
-                    <li><strong>Situation Matrimoniale :</strong> celibataire </li>
-                    <li><strong>Mention :</strong> Informatique </li>
-                </ul>
-            </div>
-        </div>
+        </aside>
 
-        <div class="flexbox">
-            <div class="card-header">
-                <h1>Membre 3</h1>
-                <img src="antema.jpg" alt="photo d'identité">
-            </div>
-            <div class="card-content">
-                <h2>Information personnel</h2>
-                <ul>
-                    <li><strong>Nom :</strong> ANDRIANARIVOSOA </li>
-                    <li><strong>Prénoms :</strong> Antema Fiderana </li>
-                    <li><strong>Age :</strong> 17 ans</li>
-                    <li><strong>contact :</strong> 038 35 198 19</li>
-                    <li><strong>Email :</strong> antemaandrianrivosoa@gmail.com</li>
-                    <li><strong>Adresse :</strong> Andrainjato fianarantsoa </li>
-                    <li><strong>Situation Matrimoniale :</strong> celibataire </li>
-                    <li><strong>Mention :</strong> Informatique </li>
-                </ul>
-            </div>
-        </div>
+        <main class="content">
+            <nav class="tab-nav">
+                <a href="#" class="active">Overview</a>
+                <a href="#">Repositories <span class="counter">12</span></a>
+                <a href="#">Projects</a>
+            </nav>
 
-        <div class="flexbox">
-            <div class="card-header">
-                <h1>Membre 4</h1>
-                <img src="tt.jpg" alt="Photo membre 4">
+            <div class="repo-grid">
+                <div class="repo-card">
+                    <a href="#" class="repo-title">mon-super-projet</a>
+                    <p class="repo-desc">Une application incroyable développée avec HTML et CSS.</p>
+                    <div class="repo-footer">
+                        <span class="lang-circle"></span> HTML
+                    </div>
+                </div>
+                <div class="repo-card">
+                    <a href="#" class="repo-title">portfolio-2026</a>
+                    <p class="repo-desc">Mon portfolio personnel mis à jour.</p>
+                    <div class="repo-footer">
+                        <span class="lang-circle css"></span> CSS
+                    </div>
+                </div>
             </div>
-            <div class="card-content">
-                <h2>Information personnel</h2>
-                <ul>
-                    <li><strong>Nom :</strong> TOTO</li>
-                    <li><strong>Prénoms :</strong> Liang Wenceslas Truilino</li>
-                    <li><strong>Age :</strong> 19 ans </li>
-                    <li><strong>CIN :</strong> 301071048825</li>
-                    <li><strong>contact :</strong> 032 48 709 78</li>
-                    <li><strong>Email :</strong> truilinoliang@gamil.com</li>
-                    <li><strong>Adresse :</strong> Andrainjato Fianarantsoa</li>
-                    <li><strong>Situation Matrimoniale :</strong> Celibataire</li>
-                    <li><strong>Profession :</strong> Etudiant</li>
-                    <li><strong>Mention :</strong> Informatique</li>
-                </ul>
-            </div>
-        </div>
-
-        <div class="flexbox">
-            <div class="card-header">
-                <h1>Membre 5</h1>
-                <img src="image.jpg" alt="photo de Sorel">
-            </div>
-            <div class="card-content">
-                <h2>Information personnel</h2>
-                <ul>
-                    <li><strong>Nom :</strong> RARIVOANDRIANANDRAINA</li>
-                    <li><strong>Prénoms :</strong> Gino Sorel</li>
-                    <li><strong>Age :</strong> 18ans </li>
-                    <li><strong>CIN :</strong> 201031068358</li>
-                    <li><strong>contact :</strong> 038 32 194 62</li>
-                    <li><strong>Email :</strong> rginosorel@gamil.com</li>
-                    <li><strong>Adresse :</strong> Andrainjato Fianarantsoa</li>
-                    <li><strong>Situation Matrimoniale :</strong> Celibataire</li>
-                    <li><strong>Profession :</strong> Etudiant</li>
-                    <li><strong>Mention :</strong> Informatique</li>
-                </ul>
-            </div>
-        </div>
-
-        <div class="flexbox">
-            <div class="card-header">
-                <h1>Membre 6</h1>
-                <img src="490934050_1451058895863386_3640188297842644685_n.jpg" alt="photo sonya">
-            </div>
-            <div class="card-content">
-                <h2>Information personnel</h2>
-                <ul>
-                    <li><strong>Nom :</strong> RASOANIRINJATOVO</li>
-                    <li><strong>Prénoms :</strong> Sonya</li>
-                    <li><strong>Age :</strong> 19 ans </li>
-                    <li><strong>CIN :</strong> 314012053419</li>
-                    <li><strong>contact :</strong> 0345624502</li>
-                    <li><strong>Email :</strong> sonyarasoa3@gmail.com</li>
-                    <li><strong>Adresse :</strong> Andrainjato Fianarantsoa</li>
-                    <li><strong>Situation Matrimoniale :</strong> celibataire</li>
-                    <li><strong>Profession :</strong> Etudiant</li>
-                    <li><strong>Mention :</strong> Informatique</li>
-                </ul>
-            </div>
-        </div>
-
-        <div class="flexbox">
-            <div class="card-header">
-                <h1>Membre 7</h1>
-                <img src="IMG.png" alt="photo de Metosela">
-            </div>
-            <div class="card-content">
-                <h2> Informations personnelles</h2>
-                <ul>
-                    <li><strong>Nom :</strong> RASAMIHAGA </li>
-                    <li><strong>Prénoms :</strong> Nambinintsoa Metosela </li>
-                    <li><strong>Age :</strong> 19 ans</li>
-                    <li><strong>CIN :</strong> 101 981 130 602</li>
-                    <li><strong>contact :</strong> 038 26 412 60</li>
-                    <li><strong>Email :</strong> metoselarasamihaga@gmail.com</li>
-                    <li><strong>Adresse :</strong> Soanierana Fianarantsoa </li>
-                    <li><strong>Situation Matrimoniale :</strong> celibataire </li>
-                    <li><strong>Mention :</strong> Informatique </li>
-                </ul>
-            </div>
-        </div>
-
-    </main>
-
-    <footer>
-        <p>&copy; 2026 - Les Disciples d'Elon Musk</p>
-    </footer>
+        </main>
+    </div>
 
 </body>
 </html>
