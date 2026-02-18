@@ -137,7 +137,24 @@
             </ul>
             
         </div>
-
+         <div class="flexbox">
+            <h1>Membre 7</h1>
+             <img src="c:\MIHAJA.html\image1.png="photo de Mihaja"width=180>
+            <h2>Information personnel</h2>
+            <!-- UL = unorder list -->
+            <ul>
+                <li>Nom : RANDRIA</li>
+                <li>Prenom : Mihaja Riana</li>
+                <li>Age : 18 ans </li>
+                <li>contact : 0334966388</li>
+                <li>Email : randriamihaja717@gmail.com</li>
+                <li>Adresse : Andrainjato Fianarantsoa</li>
+                <li>Situation Matrimoniale : Celibataire</li>
+                <li>Profession : Etudiant</li>
+                <li>Mention : Informatique</li>
+            </ul>
+            
+        </div>
 
     </main>
     <footer></footer>
