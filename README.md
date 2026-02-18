@@ -70,7 +70,7 @@
                     <li><strong>Nom :</strong> ANDRIANARIVOSOA </li>
                     <li><strong>Prénoms :</strong> Antema Fiderana </li>
                     <li><strong>Age :</strong> 17 ans</li>
-                    <li><strong>contacte :</strong> 038 35 198 19</li>
+                    <li><strong>contact :</strong> 038 35 198 19</li>
                     <li><strong>Email :</strong> antemaandrianrivosoa@gmail.com</li>
                     <li><strong>Adresse :</strong> Andrainjato fianarantsoa </li>
                     <li><strong>Situation Matrimoniale :</strong> celibataire </li>
