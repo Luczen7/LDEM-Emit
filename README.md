@@ -21,7 +21,7 @@
     <main>
         <div class="flexbox">
             <h1>Membre 1</h1>
-             <img src="f:\490934050_1451058895863386_3640188297842644685_n.jpg="photo de Truilino"width=180>
+             <img src="moreno.jpg" alt="photo de Moreno"width=180>
             <h2>Information personnel</h2>
             <!-- UL = unorder list -->
             <ul>
@@ -53,7 +53,6 @@
                 <li>Adresse:Andrainjato fianarantsoa </li>
                 <li>Situation Matrimoniale: celibataire </li>
                 <li>Mention: Informatique </li>
-
             </ul>
             
 
@@ -62,8 +61,7 @@
         </div>
             <div class="flexbox">
                 <h1>Membre 3</h1>
-                <img src="![WhatsApp Image 2026-02-18 at 3 51 01 PM](https://github.com/user-attachments/assets/1d41d4e1-ac3d-4611-b1e9-167829d05c64)
-" alt="photo d'indentité"width=180>
+                <img src="antema.jpg" alt="photo d'indentité"width=180>
             <ul>   
                 <h2> information personnel</h2>
                 <ul>
@@ -75,8 +73,7 @@
                 <li>Adresse:Andrainjato fianarantsoa </li>
                 <li>Situation Matrimoniale: celibataire </li>
                 <li>Mention: Informatique </li>
-
-            </ul>
+           </ul>
         
 
         </div>
@@ -156,8 +153,8 @@
                 <li>Adresse: Soanierana Fianarantsoa </li>
                 <li>Situation Matrimoniale: celibataire </li>
                 <li>Mention: Informatique </li>
-
             </ul>
+            
             
 
         </div>
