@@ -21,7 +21,7 @@
     <main>
         <div class="flexbox">
             <h1>Membre 1</h1>
-             <img src="c:\Users\Randy\Downloads\Instagram _ saad_https.jpg" alt="photo de Truilino"width=180>
+             <img src="f:\490934050_1451058895863386_3640188297842644685_n.jpg="photo de Truilino"width=180>
             <h2>Information personnel</h2>
             <!-- UL = unorder list -->
             <ul>
@@ -98,6 +98,26 @@
             
         </div>
         <div class="flexbox">
+        <img src="c:\Users\ROGINIOT\Desktop\ginoSorel\assets\image.jpg="photo de Sorel"width=180>
+        <h1>Membre 4</h1>
+             <link rel="short icon" href="./tt.jpg">
+            <h2>Information personnel</h2>
+            <!-- UL = unorder list -->
+            <ul>
+                <li>Nom : RARIVOANDRIANANDRAINA</li>
+                <li>Prenom : Gino Sorel</li>
+                <li>Age : 18ans </li>
+                <li>CIN : 201031068358</li>
+                <li>contact : 038 32 194 62</li>
+                <li>Email : rginosorel@gamil.com</li>
+                <li>Adresse : Andrainjato Fianarantsoa</li>
+                <li>Situation Matrimoniale : Celibataire</li>
+                <li>Profession : Etudiant</li>
+                <li>Mention : Informatique</li>
+            </ul>
+            
+        </div>
+
     </main>
     <footer></footer>
 
