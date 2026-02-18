@@ -139,7 +139,7 @@
         </div>
          <div class="flexbox">
             <h1>Membre 7</h1>
-             <img src="c:\MIHAJA.html\image1.png="photo de Mihaja"width=180>
+             <img src="c:\MIHAJA.html\image1.png" alt="photo de Mihaja"width=180>
             <h2>Information personnel</h2>
             <!-- UL = unorder list -->
             <ul>
