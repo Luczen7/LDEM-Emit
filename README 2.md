@@ -21,7 +21,7 @@
     <main>
         <div class="flexbox">
             <h1>Membre 1</h1>
-             <img src="c:\Users\Randy\Downloads\Instagram _ saad_https.jpg" alt="photo de Truilino"width=180>
+             <img src="f:\490934050_1451058895863386_3640188297842644685_n.jpg="photo de Truilino"width=180>
             <h2>Information personnel</h2>
             <!-- UL = unorder list -->
             <ul>
