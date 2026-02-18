@@ -99,7 +99,7 @@
         </div>
         <div class="flexbox">
         <img src="c:\Users\ROGINIOT\Desktop\ginoSorel\assets\image.jpg="photo de Sorel"width=180>
-        <h1>Membre 4</h1>
+        <h1>Membre 5</h1>
              <link rel="short icon" href="./tt.jpg">
             <h2>Information personnel</h2>
             <!-- UL = unorder list -->
@@ -117,6 +117,27 @@
             </ul>
             
         </div>
+               <div class="flexbox">
+    
+            <h1>Membre 6</h1>
+             <img src="490934050_1451058895863386_3640188297842644685_n" alt="photo sonya"width=180>
+            <h2>Information personnel</h2>
+            <!-- UL = unorde list -->
+            <ul>
+                <li>Nom : RASOANIRINJATOVO</li>
+                <li>Prenom : Sonya</li>
+                <li>Age : 19 ans </li>
+                <li>CIN : 314012053419</li>
+                <li>contact : 0345624502</li>
+                <li>Email : sonyarasoa3@gmail.com</li>
+                <li>Adresse : Andrainjato Fianarantsoa</li>
+                <li>Situation Matrimoniale : celibataire</li>
+                <li>Profession : Etudiant</li>
+                <li>Mention : Informatique</li>
+            </ul>
+            
+        </div>
+
 
     </main>
     <footer></footer>
